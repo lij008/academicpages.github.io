@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-FuzzIEEE-TSKANN
 excerpt: 
 date: 2019
-venue: 'Journal 1'
+venue: 'FUZZ-IEEE 2019'
 paperurl: 
 citation: 'Z. Zuo, J. Li, B. Wei, L. Yang, F. Chao, and N. Naik. Adaptive Activation Function Generation Through Fuzzy Inference for Grooming Text Categorisation. In IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2019'
 ---
