@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr Jie Li"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Dr Jie Li"
 description              : &description "personal description"
